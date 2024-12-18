@@ -1,0 +1,15 @@
+{
+  "name": "khushboo",
+  "version": "1.0.0",
+  "description": "This is trial package",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [
+    "[\"WT-2\"",
+    "\"SEM-4\"]"
+  ],
+  "author": "KL",
+  "license": "ISC"
+}
